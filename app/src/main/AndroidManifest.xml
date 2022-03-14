@@ -10,9 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HarryPotterApp">
         <activity
-            android:name=".activity.MainActivity"
+            android:name=".activity.SplashActivity"
             android:exported="true"
-            android:theme="@style/SplashTheme">
+            android:theme="@style/SplashStyle">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
